@@ -1,0 +1,9 @@
+id0minerGinvalid0 id1miner8invalid0
+id0minerGinvalid0 id2miner4invalid0
+id2miner4invalid0 id3miner4invalid0
+id3miner4invalid0 id4miner4invalid0
+id3miner4invalid0 id5miner3invalid0
+id3miner4invalid0 id6miner8invalid0
+id5miner3invalid0 id8miner3invalid0
+id6miner8invalid0 id7miner8invalid0
+id7miner8invalid0 id9miner8invalid0

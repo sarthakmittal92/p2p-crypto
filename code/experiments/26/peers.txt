@@ -1,0 +1,81 @@
+0
+id1time856.497 id0time0
+id2time7557.83 id1time856.497
+id3time5312.15 id1time856.497
+id4time17114.7 id1time856.497
+id5time10322.4 id1time856.497
+id6time9139.97 id2time7557.83
+id7time9271.55 id6time9139.97
+1
+id1time639.312 id0time0
+id2time856.088 id1time639.312
+id3time27787.5 id1time639.312
+id4time17114.9 id1time639.312
+id5time10322.3 id1time639.312
+id6time7557.43 id2time856.088
+id7time9139.56 id6time7557.43
+id8time9271.15 id7time9139.56
+2
+id1time856.476 id0time0
+id2time7557.81 id1time856.476
+id3time27787.4 id1time856.476
+id4time7111.44 id1time856.476
+id5time10322.3 id1time856.476
+id6time9139.95 id2time7557.81
+id7time9271.54 id6time9139.95
+3
+id1time856.541 id0time0
+id2time7557.85 id1time856.541
+id3time27787.6 id1time856.541
+id4time17115 id1time856.541
+id5time7160.01 id1time856.541
+id6time9140.16 id2time7557.85
+id7time9271.66 id6time9140.16
+4
+id1time856.544 id0time0
+id2time7557.84 id1time856.544
+id3time27787.6 id1time856.544
+id4time17115.1 id1time856.544
+id5time10322.3 id1time856.544
+id6time9140.15 id2time7557.84
+id7time9271.59 id6time9140.15
+5
+id1time856.463 id0time0
+id2time7557.78 id1time856.463
+id3time27787.8 id1time856.463
+id4time17115.1 id1time856.463
+id5time10322.4 id1time856.463
+id6time9140.07 id2time7557.78
+id7time9271.53 id6time9140.07
+6
+id1time856.434 id0time0
+id2time7557.77 id1time856.434
+id3time27787.4 id1time856.434
+id4time17114.8 id1time856.434
+id5time10322.2 id1time856.434
+id6time9139.91 id2time7557.77
+id7time9271.49 id6time9139.91
+7
+id1time856.414 id0time0
+id2time7557.73 id1time856.414
+id3time27787.9 id1time856.414
+id4time17115.3 id1time856.414
+id5time10322.6 id1time856.414
+id6time9140.01 id2time7557.73
+id7time9271.48 id6time9140.01
+8
+id1time856.38 id0time0
+id2time7557.72 id1time856.38
+id3time27787.6 id1time856.38
+id4time17114.7 id1time856.38
+id5time10322.1 id1time856.38
+id6time9139.86 id2time7557.72
+id7time9271.44 id6time9139.86
+9
+id1time856.449 id0time0
+id2time7557.78 id1time856.449
+id3time27787.7 id1time856.449
+id4time17114.9 id1time856.449
+id5time10322.6 id1time856.449
+id6time9139.92 id2time7557.78
+id7time9271.51 id6time9139.92

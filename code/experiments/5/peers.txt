@@ -1,0 +1,84 @@
+0
+id2time8041.74 id0time0
+id3time9361.71 id0time0
+id4time8157.86 id0time0
+id6time15748.1 id0time0
+id8time13668.1 id2time8041.74
+id9time12832.7 id4time8157.86
+id10time17331.9 id3time9361.71
+1
+id2time2910.77 id0time0
+id3time9361.59 id0time0
+id4time8157.86 id0time0
+id6time15747.9 id0time0
+id8time8041.31 id2time2910.77
+id9time12832.8 id4time8157.86
+id10time17331.8 id3time9361.59
+2
+id1time350.308 id0time0
+id2time8041.72 id0time0
+id3time9361.66 id0time0
+id4time8157.76 id0time0
+id5time4931.63 id1time350.308
+id6time15748.3 id0time0
+id7time6451.71 id5time4931.63
+id8time13668.1 id2time8041.72
+id9time12832.6 id4time8157.76
+id10time17331.9 id3time9361.66
+3
+id2time8041.94 id0time0
+id3time3896.68 id0time0
+id4time8157.62 id0time0
+id6time15748.1 id0time0
+id8time13668.3 id2time8041.94
+id9time12832.5 id4time8157.62
+id10time9361.35 id3time3896.68
+4
+id2time8042.15 id0time0
+id3time9361.96 id0time0
+id4time3923.3 id0time0
+id6time15748.9 id0time0
+id8time13668.8 id2time8042.15
+id9time8156.92 id4time3923.3
+id10time17332.3 id3time9361.96
+5
+id2time8042.08 id0time0
+id3time9362.02 id0time0
+id4time8157.91 id0time0
+id6time15749 id0time0
+id8time13668.7 id2time8042.08
+id9time12832.8 id4time8157.91
+id10time17332.3 id3time9362.02
+6
+id2time8041.68 id0time0
+id3time9361.5 id0time0
+id4time8157.77 id0time0
+id6time6267.68 id0time0
+id8time13668.1 id2time8041.68
+id9time12832.7 id4time8157.77
+id10time17331.7 id3time9361.5
+7
+id2time8042.02 id0time0
+id3time9362.31 id0time0
+id4time8157.83 id0time0
+id6time15749.1 id0time0
+id8time13668.7 id2time8042.02
+id9time12832.7 id4time8157.83
+id10time17332.6 id3time9362.31
+8
+id2time8041.63 id0time0
+id3time9361.4 id0time0
+id4time8157.56 id0time0
+id6time15748.2 id0time0
+id8time13668 id2time8041.63
+id9time12832.4 id4time8157.56
+id10time17331.6 id3time9361.4
+9
+id2time8041.69 id0time0
+id3time9361.98 id0time0
+id4time8158.11 id0time0
+id6time15748.3 id0time0
+id8time13668.1 id2time8041.69
+id9time12833 id4time8158.11
+id10time17332.2 id3time9361.98
+id11time9684.01 id2time8041.69

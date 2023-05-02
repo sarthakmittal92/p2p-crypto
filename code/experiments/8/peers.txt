@@ -1,0 +1,91 @@
+0
+id1time1367.26 id0time0
+id2time14611.2 id1time1367.26
+id3time3704.54 id1time1367.26
+id4time17021.6 id3time3704.54
+id5time4516.04 id3time3704.54
+id6time5437.67 id5time4516.04
+id8time19600.3 id5time4516.04
+id9time15875.7 id5time4516.04
+1
+id1time1367.43 id0time0
+id2time14611.4 id1time1367.43
+id3time3704.48 id1time1367.43
+id4time17021.5 id3time3704.48
+id5time5437.87 id3time3704.48
+id6time12398.6 id5time5437.87
+id8time19600.1 id5time5437.87
+id9time15875.9 id5time5437.87
+2
+id1time546.966 id0time0
+id2time1367.11 id1time546.966
+id3time3704.52 id1time546.966
+id4time17021.6 id3time3704.52
+id5time5437.81 id3time3704.52
+id6time12398.5 id5time5437.81
+id8time19600.5 id5time5437.81
+id9time15875.8 id5time5437.81
+3
+id1time1367.56 id0time0
+id2time14611.5 id1time1367.56
+id3time3704.86 id1time1367.56
+id4time17021.9 id3time3704.86
+id5time5437.98 id3time3704.86
+id6time12398.7 id5time5437.98
+id8time19600.3 id5time5437.98
+id9time15875.9 id5time5437.98
+4
+id1time1367.52 id0time0
+id2time14611.5 id1time1367.52
+id3time3705.15 id1time1367.52
+id4time17021.9 id3time3705.15
+id5time5438.06 id3time3705.15
+id6time12398.8 id5time5438.06
+id8time19600.9 id5time5438.06
+id9time15876 id5time5438.06
+5
+id1time1367.53 id0time0
+id2time14611.5 id1time1367.53
+id3time3704.85 id1time1367.53
+id4time17021.5 id3time3704.85
+id5time5438.23 id3time3704.85
+id6time12399 id5time5438.23
+id8time19600.9 id5time5438.23
+id9time9631.44 id5time5438.23
+6
+id1time1367.38 id0time0
+id2time14611.4 id1time1367.38
+id3time3704.67 id1time1367.38
+id4time17021.7 id3time3704.67
+id5time5437.79 id3time3704.67
+id6time12398.5 id5time5437.79
+id8time9099.22 id5time5437.79
+id9time15875.8 id5time5437.79
+7
+id1time1367.81 id0time0
+id2time14611.8 id1time1367.81
+id3time3705.2 id1time1367.81
+id4time17021.9 id3time3705.2
+id5time5438.36 id3time3705.2
+id6time12399 id5time5438.36
+id7time6128.59 id5time5438.36
+id8time19600.9 id5time5438.36
+id9time15876 id5time5438.36
+8
+id1time1367.3 id0time0
+id2time14611.3 id1time1367.3
+id3time3704.72 id1time1367.3
+id4time17021.7 id3time3704.72
+id5time5438 id3time3704.72
+id6time12398.7 id5time5438
+id8time19600.4 id5time5438
+id9time15875.9 id5time5438
+9
+id1time1367.43 id0time0
+id2time14611.4 id1time1367.43
+id3time3213.39 id1time1367.43
+id4time3704.21 id3time3213.39
+id5time5438.14 id3time3213.39
+id6time12398.9 id5time5438.14
+id8time19600.5 id5time5438.14
+id9time15876 id5time5438.14

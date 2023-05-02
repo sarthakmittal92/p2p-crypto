@@ -1,0 +1,101 @@
+0
+id1time2347.12 id0time0
+id2time4669.24 id1time2347.12
+id3time3541.44 id1time2347.12
+id4time11069.3 id2time4669.24
+id6time9578.85 id2time4669.24
+id7time5714.34 id3time3541.44
+id8time14323.5 id2time4669.24
+id9time8584.61 id7time5714.34
+id10time13616.8 id6time9578.85
+1
+id1time426.208 id0time0
+id2time2346.71 id1time426.208
+id3time5714.52 id1time426.208
+id4time4668.83 id2time2346.71
+id6time9578.76 id2time2346.71
+id7time8584.79 id3time5714.52
+id8time14323.4 id2time2346.71
+id9time10150 id7time8584.79
+id10time13616.7 id6time9578.76
+2
+id1time2347.1 id0time0
+id2time4669.22 id1time2347.1
+id3time5714.47 id1time2347.1
+id4time11069.3 id2time4669.22
+id5time4740.96 id2time4669.22
+id6time9578.83 id2time4669.22
+id7time8584.74 id3time5714.47
+id8time14323.4 id2time4669.22
+id9time10149.9 id7time8584.74
+id10time13616.7 id6time9578.83
+3
+id1time2347.19 id0time0
+id2time4669.4 id1time2347.19
+id3time5714.64 id1time2347.19
+id4time11069.5 id2time4669.4
+id6time4773.34 id2time4669.4
+id7time8584.91 id3time5714.64
+id8time14323.8 id2time4669.4
+id9time10150.1 id7time8584.91
+id10time9578.57 id6time4773.34
+4
+id1time2347.13 id0time0
+id2time4669.39 id1time2347.13
+id3time5714.63 id1time2347.13
+id4time11069.4 id2time4669.39
+id6time9578.67 id2time4669.39
+id7time8584.9 id3time5714.63
+id8time14323.8 id2time4669.39
+id9time10150.1 id7time8584.9
+id10time13616.6 id6time9578.67
+5
+id1time2347.08 id0time0
+id2time4669.25 id1time2347.08
+id3time5714.86 id1time2347.08
+id4time11069.3 id2time4669.25
+id6time9578.72 id2time4669.25
+id7time8585.07 id3time5714.86
+id8time14323.5 id2time4669.25
+id9time10150.3 id7time8585.07
+id10time13616.7 id6time9578.72
+6
+id1time2347.06 id0time0
+id2time4669.18 id1time2347.06
+id3time5714.45 id1time2347.06
+id4time11069.3 id2time4669.18
+id6time9578.69 id2time4669.18
+id7time8584.72 id3time5714.45
+id8time14323.6 id2time4669.18
+id9time10149.9 id7time8584.72
+id10time13616.6 id6time9578.69
+7
+id1time2347.05 id0time0
+id2time4669.21 id1time2347.05
+id3time5714.9 id1time2347.05
+id4time11069.3 id2time4669.21
+id6time9579.06 id2time4669.21
+id7time8585.15 id3time5714.9
+id8time14323.8 id2time4669.21
+id9time10150.4 id7time8585.15
+id10time13617 id6time9579.06
+8
+id1time2347.01 id0time0
+id2time4669.13 id1time2347.01
+id3time5714.66 id1time2347.01
+id4time11069.2 id2time4669.13
+id6time9578.6 id2time4669.13
+id7time8584.93 id3time5714.66
+id8time14323.6 id2time4669.13
+id9time10150.1 id7time8584.93
+id10time13616.5 id6time9578.6
+9
+id1time2347.07 id0time0
+id2time4669.2 id1time2347.07
+id3time5714.8 id1time2347.07
+id4time11069.3 id2time4669.2
+id6time9579.12 id2time4669.2
+id7time8585.07 id3time5714.8
+id8time8292.35 id2time4669.2
+id9time10150.3 id7time8585.07
+id10time13617 id6time9579.12

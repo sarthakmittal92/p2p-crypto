@@ -1,0 +1,13 @@
+id0minerGinvalid0 id1miner9invalid0
+id1miner9invalid0 id2miner9invalid0
+id1miner9invalid0 id3miner2invalid0
+id1miner9invalid0 id4miner7invalid0
+id2miner9invalid0 id5miner9invalid0
+id2miner9invalid0 id6miner6invalid0
+id2miner9invalid0 id7miner5invalid0
+id2miner9invalid0 id8miner3invalid0
+id6miner6invalid0 id9miner6invalid0
+id6miner6invalid0 id10miner7invalid0
+id6miner6invalid0 id11miner4invalid0
+id9miner6invalid0 id12miner6invalid0
+id11miner4invalid0 id13miner4invalid0
